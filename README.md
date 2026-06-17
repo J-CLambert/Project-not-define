@@ -4,18 +4,24 @@ listes d'intêrets:
 > Ajoutez vos centres d'intêret svp
 
 ## J.-C
-- La seconde guerre mondiale
-- Les trains
-- l'Italie
-- Le Liban
-- La simulation de système physique
-- La logique formelle
+- La logique formelle + théorie de la demonstration
+- Analyser des trucs( des state sur un sujet)
 - Les cartes
-- Le Maroc
-- Marie-Antoinette d'Autriche
-- La philosophie (analytic)
-- Les lumières
-- Les mots-croisés (faire)
+- Théorie de l'évolution
+- La phycologie
+- La linguistique
+
+### Informatique
+- Les réseau informatique
+- La cyber-sécuriter(linux)
+
+### Philosophie(j'aime beaucoup)
+- Lagague
+- Esprie
+- Ontologie
+- Epistemologie
+- Math/logic (what is causality)
+---
 
 ## Fatima
 - Bibliothèque de livres (faire des liens entre les livres, citations, thèmes) donc BD avec une interface graphique? + création de fiche de lecture? 
