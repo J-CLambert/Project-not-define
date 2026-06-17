@@ -1,6 +1,7 @@
 # Projet non definie
 
 listes d'intêrer:
+> Ajouter vos centre d'intêret svp
 
 - La seconde guerre mondial
 - les trains
