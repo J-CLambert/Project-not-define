@@ -2,6 +2,7 @@
 
 listes d'intêrets:
 > Ajoutez vos centres d'intêret svp
+---
 
 ## J-C
 - La logique formelle + théorie de la demonstration
