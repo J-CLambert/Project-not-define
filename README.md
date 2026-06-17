@@ -14,5 +14,5 @@ listes d'intêrer:
 - la philosophie (analytic)
 - les lumières
 - les mot croisé (faire)
-- 
+
 
