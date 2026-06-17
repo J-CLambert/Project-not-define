@@ -1,15 +1,18 @@
 # Projet non definie
 
-listes d'intérer:
+listes d'intêrer:
 
 - La seconde guerre mondial
-- les train
+- les trains
 - l'Italie
 - le Liban
 - la simulation de system physique
 - la logic formelle
 - les cartes
 - le Maroc
-- marie Entoinnette
-- la philosophie (analitique)
+- Marie-Antoinette d'Autriche
+- la philosophie (analytic)
+- les lumières
+- les mot croisé (faire)
+- 
 
