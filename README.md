@@ -22,6 +22,8 @@ listes d'intêrets:
 - Ontologie
 - Epistemologie
 - Math/logic (what is causality)
+- Moral
+- Politique
 ---
 
 ## Fatima
