@@ -3,7 +3,7 @@
 listes d'intêrets:
 > Ajoutez vos centres d'intêret svp
 
-## J.-C
+## J-C
 - La logique formelle + théorie de la demonstration
 - Analyser des trucs( des state sur un sujet)
 - Les cartes
