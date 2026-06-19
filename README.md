@@ -48,3 +48,21 @@ listes d'intêrets:
 - ...
 - Khalas im done je vais faire une sieste
 
+## Jim
+- Philo : formaliser le problème de la mesure de phy. quantique / différence entre logique phy. classique et phy. quantique
+- dessin : étude du corps humain
+- littérature : dresser une carte des styles et des plumes des auteurices.
+- lowtech : minimiser l'empreinte carbone, maximiser l'autonomie face à la société de consommation.
+- théorie socio-économique : macro-économie, féminisme matérialiste/marxisme, écoféminisme
+- Échecs : ouverture, finale tactique et thème stratégique.
+- botanique : faire une introduction
+
+###Physique
+- simulation de systèmes physiques clés (phy. classique et restreinte)
+- mécanique quantique et interprétation moderne.
+###Écriture
+- structure et tropes narratifs
+- enjeu émotionnel dans le récit
+- caractériser les plumes et styles d'écriture
+- développer le champ lexical des perceptions.
+- nouvelle/poème
