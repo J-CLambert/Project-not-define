@@ -6,19 +6,19 @@ listes d'intêrets:
 
 ## J-C
 - La logique formelle + théorie de la demonstration
-- Analyser des trucs( des state sur un sujet)
+- Analyser des trucs ( des statistiques sur un sujet)
 - Les cartes
 - Théorie de l'évolution
-- La phycologie
+- La psycologie
 - La linguistique
 
 ### Informatique
-- Les réseau informatique
-- La cyber-sécuriter(linux)
+- Les réseaux informatique
+- La cyber-sécurité (linux)
 
 ### Philosophie(j'aime beaucoup)
-- Lagague
-- Esprie
+- Langage
+- Esprit
 - Ontologie
 - Epistemologie
 - Math/logic (what is causality)
@@ -49,10 +49,9 @@ listes d'intêrets:
 - Khalas im done je vais faire une sieste
 
 ## Jim
-- Philo : formaliser le problème de la mesure de phy. quantique / différence entre logique phy. classique et phy. quantique
 - dessin : étude du corps humain
 - littérature : dresser une carte des styles et des plumes des auteurices.
-- lowtech : minimiser l'empreinte carbone, maximiser l'autonomie face à la société de consommation.
+- lowtech : minimiser l'empreinte carbone, maximiser l'autonomie énergétique et matériel ( héritage psycho de ma mère #findumonde )
 - théorie socio-économique : macro-économie, féminisme matérialiste/marxisme, écoféminisme
 - Échecs : ouverture, finale tactique et thème stratégique.
 - botanique : faire une introduction
@@ -61,6 +60,14 @@ listes d'intêrets:
 ### Physique
 - simulation de systèmes physiques clés (phy. classique et restreinte)
 - mécanique quantique et interprétation moderne.
+
+### Philo :
+- formaliser le problème de la mesure de phy. quantique
+- différence entre logique phy. classique et quantique
+- causalité en quantique vs  classique
+- qu'est ce que le temps ?
+- mais ou est donc ornicar ?
+
 ### Écriture
 - structure et tropes narratifs
 - enjeu émotionnel dans le récit
