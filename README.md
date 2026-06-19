@@ -56,6 +56,7 @@ listes d'intêrets:
 - théorie socio-économique : macro-économie, féminisme matérialiste/marxisme, écoféminisme
 - Échecs : ouverture, finale tactique et thème stratégique.
 - botanique : faire une introduction
+- psychologie : mettre en pratique les TCC
 
 ### Physique
 - simulation de systèmes physiques clés (phy. classique et restreinte)
