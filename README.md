@@ -57,10 +57,10 @@ listes d'intêrets:
 - Échecs : ouverture, finale tactique et thème stratégique.
 - botanique : faire une introduction
 
-###Physique
+### Physique
 - simulation de systèmes physiques clés (phy. classique et restreinte)
 - mécanique quantique et interprétation moderne.
-###Écriture
+### Écriture
 - structure et tropes narratifs
 - enjeu émotionnel dans le récit
 - caractériser les plumes et styles d'écriture
